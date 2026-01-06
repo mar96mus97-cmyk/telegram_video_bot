@@ -1,0 +1,20 @@
+# بيئة Python
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات البيئة
+.env
+.env.local
+
+# مجلد التنزيلات
+downloads/
+
+# Railway
+.railway/
