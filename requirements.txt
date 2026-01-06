@@ -1,5 +1,5 @@
-python-telegram-bot==20.3
-yt-dlp
+python-dotenvpython-telegram-bot==20.3
+yt-dlp>=2023.11.16
 moviepy
 requests
-python-dotenv
+python-dotenv>=1.0.0
